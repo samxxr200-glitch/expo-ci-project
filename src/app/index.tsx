@@ -36,8 +36,8 @@ export default function HomeScreen() {
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
             Welcome to&nbsp;Expo
-            NAME: Rana Ahmad Hassan
-            ROLL NO: 23L-3048
+            NAME: Muhammad Sameer 
+            ROLL NO: 23i-3061
           </ThemedText>
           
         </ThemedView>
